@@ -7,4 +7,3 @@
 •	Save your progress in the local repository.
 •	Create a new branch named “your roll number” eg. 19000. Switch to that branch.
 •	Push the new branch(19000) on the remote repo.
-fdfd
